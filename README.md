@@ -1,10 +1,10 @@
 # Tableau Workshop Introduction：
-#### Download Tableau Public Software：https://public.tableau.com/en-us/s/download
-#### Or Download Free 14-Day Tableau Desktop：https://www.tableau.com/products/desktop/download
+#### Download Free 14-Day Tableau Desktop：https://www.tableau.com/products/desktop/download
 #### Download Sample - Superstore Datasource
 #### Schedule：
-- 07/18 7:30pm-9:30pm
-- 07/25 7:30pm-9:30pm
+- 10/03 8:00pm-10:00pm
+- 10/10 8:00pm-10:00pm
+- 10/17 8:00pm-10:00pm
 
 #### Final Tableau workbook will be uploaded after classes
 
