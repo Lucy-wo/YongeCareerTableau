@@ -3,8 +3,8 @@
 #### Download Sample - Superstore Datasource
 #### Schedule：
 - 10/03 8:00pm-10:00pm
-- 10/10 8:00pm-10:00pm
 - 10/17 8:00pm-10:00pm
+- 10/24 8:00pm-10:00pm
 
 #### Final Tableau workbook will be uploaded after classes
 
