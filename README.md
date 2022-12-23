@@ -2,9 +2,8 @@
 #### Download Free 14-Day Tableau Desktop：https://www.tableau.com/products/desktop/download
 #### Download Sample - Superstore Datasource
 #### Schedule：
-- 10/03 8:00pm-10:00pm
-- 10/17 8:00pm-10:00pm
-- 10/24 8:00pm-10:00pm
+- 12/23 7:30pm-09:30pm
+- 12/30 7:30pm-09:30pm
 
 #### Final Tableau workbook will be uploaded after classes
 
